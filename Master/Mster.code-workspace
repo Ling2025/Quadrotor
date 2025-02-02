@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Project"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f10x_gpio.h": "c",
+			"iic.h": "c",
+			"stm32f10x_rcc.h": "c",
+			"systick.h": "c",
+			"mpu6050.h": "c",
+			"xstring": "c",
+			"xutility": "c",
+			"string": "c",
+			"filtering.h": "c"
+		}
+	}
+}

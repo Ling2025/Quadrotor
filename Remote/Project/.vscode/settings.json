@@ -1,0 +1,36 @@
+{
+    "files.associations": {
+        "stm32f10x_gpio.h": "c",
+        "iic.h": "c",
+        "stm32f10x_rcc.h": "c",
+        "systick.h": "c",
+        "mpu6050.h": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "string": "c",
+        "filtering.h": "c",
+        "imu.h": "c",
+        "com_ano.h": "c",
+        "usart.h": "c",
+        "stm32f10x_tim.h": "c",
+        "motor.h": "c",
+        "system.h": "c",
+        "spi.h": "c",
+        "stm32f10x_spi.h": "c",
+        "si24r.h": "c",
+        "initializer_list": "c",
+        "type_traits": "c",
+        "stm32f10x_exti.h": "c",
+        "stm32f10x_wwdg.h": "c",
+        "freertosconfig.h": "c",
+        "exit.h": "c",
+        "time4.h": "c",
+        "led.h": "c",
+        "adc.h": "c",
+        "stm32f10x_adc.h": "c",
+        "stm32f10x_dma.h": "c",
+        "remote.h": "c"
+    }
+
+
+}
